@@ -1,0 +1,20 @@
+Width Not Set
+
+Name, Type, Start, Stop, View, Edit, 
+
+Regular Size Name, Order, 01/01/2017, 02/02/2017, View, Edit, 
+Pretty Long Name Size Actually, Adjustment, 01/01/2017, 04/03/2018, View, Edit, 
+Regular Size Name, Adjustment, 08/01/2017, 02/02/2019, View, Edit, 
+Pretty Long Name Size Actually, Order, 08/01/2017, 02/02/2019, View, Edit, 
+
+
+Width 100%
+
+Name, Type, Start, Stop, View, Edit, 
+
+Regular Size Name, Order, 01/01/2017, 02/02/2017, View, Edit, 
+Pretty Long Name Size Actually, Adjustment, 01/01/2017, 04/03/2018, View, Edit, 
+Regular Size Name, Adjustment, 08/01/2017, 02/02/2019, View, Edit, 
+Pretty Long Name Size Actually, Order, 08/01/2017, 02/02/2019, View, Edit, 
+
+

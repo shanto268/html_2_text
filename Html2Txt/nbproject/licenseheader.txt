@@ -1,0 +1,11 @@
+<#if licenseFirst??>
+${licenseFirst}
+</#if>
+${licensePrefix}Name: Sadman Ahmed Shanto
+${licensePrefix}Title: Project 
+${licensePrefix}Course: CS 2365 
+${licensePrefix}Section: 002
+${licensePrefix}Semester: Spring 2020
+<#if licenseLast??>
+${licenseLast}
+</#if>
